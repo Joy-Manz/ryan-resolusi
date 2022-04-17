@@ -1,3 +1,5 @@
 RENCANA GAMES RYAN
 - Genshin Impact
+  * Daily Quest
+  * Daily Resin
 - Growtopia
